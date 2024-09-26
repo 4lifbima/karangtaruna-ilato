@@ -58,7 +58,7 @@ Creator
 
 SIS-Karangtaruna
 
-- Gmail : karangtaruna@gmail.com
-- Whatsapp : 081328331831
-- Facebook : `AA43000 <https://facebook.com/aa43000>`_
+- Gmail : alif6791@gmail.com
+- Whatsapp : 082291383797
+- Programmer : `Alif <https://4lifbima.github.io>`_
 
